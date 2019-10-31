@@ -7,7 +7,7 @@
 - Edamam API
 - Excellent youtube tutorial you can find [here](https://www.youtube.com/watch?v=U9T6YkEDkMo)
 
-[Try the live demo here](https://caleb-city-weather.herokuapp.com/)
+[Try the live demo here](http://caleb-react-recipe.herokuapp.com/)
 
 <!-- Browsers like google chrome may block the API from allowing the GET response but all you need to do is click on the little red X in the URL and click on allow. -->
 
